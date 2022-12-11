@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        black: '#191624',
+        black: '#2e2e2e',
       },
       animation: {
         slideup: 'slideup 1s ease-in-out',
